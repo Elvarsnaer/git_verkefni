@@ -25,3 +25,7 @@ Git spurningar og svör
 5.	Hverjir eru helstu kostir við að nota GIT? = margir geta unnið á sama kóða og version control.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? = þegar maður er búinn að klára einhvern sérstakan bita af kóðanum, það er betra að gera fleiri en fáa commit svo þú þarft að vinna þig minna upp ef þú klúðrar einhverju.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? = Working directory is the directory with your source files under git control, 
+                                                                                The staging area is a file that stores information about what will go into your next commit., 
+                                                                                The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository.
