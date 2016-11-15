@@ -7,3 +7,10 @@ Git spurningar og svör
 	ls = birtir lista um efni í file-um og directories
 	pwd = birtir fulla nafnið á working-directory
 	mkdir = býr til directories og files
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = klónar repository í nýtt directory
+	git log = sýnir commit log
+	git status = sýnir working tree status
+	git diff = sýnir breytingar á milli commits, commit og working tree, o.s.f.v.
+	git checkout = skiptir um branch eða restorar working tree files
