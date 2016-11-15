@@ -23,3 +23,5 @@ Git spurningar og svör
 4. 	Hvað er útgáfustýring (e.version control)? = a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 5.	Hverjir eru helstu kostir við að nota GIT? = margir geta unnið á sama kóða og version control.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? = þegar maður er búinn að klára einhvern sérstakan bita af kóðanum, það er betra að gera fleiri en fáa commit svo þú þarft að vinna þig minna upp ef þú klúðrar einhverju.
