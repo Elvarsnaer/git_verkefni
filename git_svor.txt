@@ -21,3 +21,5 @@ Git spurningar og svör
 	c) git diff commit1 commit2 = sýnir muninn á tveimur commits
 
 4. 	Hvað er útgáfustýring (e.version control)? = a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+5.	Hverjir eru helstu kostir við að nota GIT? = margir geta unnið á sama kóða og version control.
