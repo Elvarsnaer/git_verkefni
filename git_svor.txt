@@ -19,3 +19,5 @@ Git spurningar og svör
 	a) git diff = sýnir breytingar á milli commits, commit og working tree, o.s.f.v.
 	b) git diff --staged = sýnir hvað hefur verið stage-að fyrir næsta commit
 	c) git diff commit1 commit2 = sýnir muninn á tveimur commits
+
+4. 	Hvað er útgáfustýring (e.version control)? = a system that records changes to a file or set of files over time so that you can recall specific versions later.
