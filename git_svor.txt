@@ -14,3 +14,8 @@ Git spurningar og svör
 	git status = sýnir working tree status
 	git diff = sýnir breytingar á milli commits, commit og working tree, o.s.f.v.
 	git checkout = skiptir um branch eða restorar working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = sýnir breytingar á milli commits, commit og working tree, o.s.f.v.
+	b) git diff --staged = sýnir hvað hefur verið stage-að fyrir næsta commit
+	c) git diff commit1 commit2 = sýnir muninn á tveimur commits
